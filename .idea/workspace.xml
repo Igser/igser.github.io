@@ -1,48 +1,223 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14090a13-2fb4-4539-a372-2215f2f23dfb" name="Default Changelist" comment="" />
+    <list default="true" id="14090a13-2fb4-4539-a372-2215f2f23dfb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-1-more.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-2a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compare.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Bold/ProximaNova-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Bold/ProximaNova-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Bold/ProximaNova-Bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Bold/ProximaNova-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Bold/ProximaNova-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Light/ProximaNova-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Light/ProximaNova-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Light/ProximaNova-Light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Light/ProximaNova-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Light/ProximaNova-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Regular/ProximaNova-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Regular/ProximaNova-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Regular/ProximaNova-Regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Regular/ProximaNova-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProximaNova-Regular/ProximaNova-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontello/fontello.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontello/fontello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontello/fontello.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontello/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontello/fontello.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/help.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brands/brand-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brands/brand-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brands/brand-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brands/brand-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brands/brand-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brands/brand-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/check-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/check/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/check/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/check/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/check/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/check/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/check/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/check/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/check/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/delivery-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/delivery-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/delivery-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/flag.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/graycat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-nav.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/japan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/link-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/news-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/news-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/news-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/payment-img-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/payment-img-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/payment-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/payment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/product-cart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/product-main.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/product.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slide.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/social.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/subscription-bg-mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/subscription-bg-tablet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/subscription-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/user-default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/visa-pay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/webtu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/account-box.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/breadcrumbs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/foot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/installation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.fancybox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.sticky-kit.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/main.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/partnerships.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recovery.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/registration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/jquery.fancybox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/normalize.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/slick.css" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1028761458">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-85" />
+    <option name="y" value="56" />
+    <option name="width" value="1936" />
+    <option name="height" value="1051" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="igser.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="igser.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -70,24 +245,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550941812666</updated>
-      <workItem from="1550941817032" duration="1432000" />
+      <workItem from="1550941817032" duration="2042000" />
+      <workItem from="1571918549778" duration="348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1432000" />
+    <option name="totallyTimeSpent" value="2390000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="38" y="0" width="1885" height="1083" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25286728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -95,16 +267,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
 </project>
